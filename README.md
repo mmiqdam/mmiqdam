@@ -9,12 +9,13 @@
 ---
 
 ## 👨‍💼 About Me
-- 🌱 I’m learning: [integration between GIS and Python, e.g., Machine Learning, Cloud Infrastructure]
-- 👯 I’m looking to collaborate on: [Open-source projects, GIS data visualization]
-- 💬 Ask me about: [GIS Project]
-- 📫 How to reach me: [miqdambalady.m@gmail.com] / www.linkedin.com/in/muhammad-miqdam-balady / +62 882007770817 (WA)
+I’m a **Geology graduate** with a passion for **GIS and spatial data processing**. I integrate earth science principles with geospatial analysis to map terrains, model subsurface structures, and support environmental mapping and assessments.
 
----
+- 🌱 Specialized in geological mapping, remote sensing, and geospatial data 
+- 💻 Proficient in **ArcGIS**, **QGIS**
+- 📈 Skilled at transforming raw field data into meaningful maps, visualizations, and analytical outputs
+- 🔍 Interested in applying GIS for environmental studies, natural resource exploration, and geospatial modeling
+
 
 ## 💻 Skills & Technologies
 
